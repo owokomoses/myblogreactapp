@@ -1,0 +1,22 @@
+{
+    "blogs":[
+        {
+            "title":"Web development",
+            "author":"John Doe",
+            "body":"contrary to popular belief,lorem is not simply run",
+            "id":"1"
+        },
+        {
+            "title":"Java programming",
+            "author":"John Doe",
+            "body":"contrary to popular belief,lorem is not simply run",
+            "id":"2"
+        },
+        {
+            "title":"mobile development",
+            "author":"John Doe",
+            "body":"contrary to popular belief,lorem is not simply run",
+            "id":"3"
+        }
+    ]
+}
